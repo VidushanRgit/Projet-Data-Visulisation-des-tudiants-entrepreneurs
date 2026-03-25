@@ -35,7 +35,12 @@ Les informations sont saisies par les étudiants via des listes déroulantes, as
 ### **Nettoyage**
 * Gestion des cas particuliers identifiés par l'équipe pédagogique.
 
----
+## Apprentissage et Résolution de Problèmes
+Le développement de cet outil en autonomie lors de ma Licence 1 a nécessité une phase de recherche intensive :
+
+StackOverflow : Pour l'optimisation des structures de données et la gestion des erreurs de manipulation des DataFrames.
+
+ChatGPT (Modèles initiaux) : Utilisé pour explorer des pistes de visualisation, bien que j'aie dû reprendre manuellement la logique pour les graphiques les plus complexes (comme les subplots de répartition par faculté), les modèles de l'époque étant limités sur la personnalisation avancée de Seaborn.
 
 ##  Data Storytelling & Insights
 > La compréhension des graphes se fait par la compréhension du terrain.
