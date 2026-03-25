@@ -1,4 +1,4 @@
-📊 Analyse et Visualisation des Données : Étudiants-Entrepreneurs (Pépite SU)
+📊 ## Analyse et Visualisation des Données : Étudiants-Entrepreneurs (Pépite SU)
 🌟 Introduction
 Le Pépite Sorbonne Université (Pôle Étudiant Pour l’Innovation, le Transfert et l’Entrepreneuriat) accompagne les porteurs de projets de création d'entreprise. Il offre un écosystème complet : mise en réseau (Satt Lutech, Agoranov), aménagement de cursus et délivrance du Statut National d’Étudiant-Entrepreneur (SNEE).
 
