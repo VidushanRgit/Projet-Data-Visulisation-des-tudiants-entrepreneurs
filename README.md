@@ -15,7 +15,7 @@ Le financement de Pépite par le Ministère de l’Enseignement Supérieur et de
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 ### **Data Processing**
 * **Excel** : Nettoyage des données, gestion des doublons
 * **Python / Pandas :** transformation des fichiers `.xls` en DataFrames exploitables.
@@ -26,7 +26,7 @@ Le financement de Pépite par le Ministère de l’Enseignement Supérieur et de
 
 ---
 
-## 📈 Qualité et Traitement des Données
+##  Qualité et Traitement des Données
 Les données proviennent de la plateforme officielle SNEE.
 
 ### **Fiabilité**
@@ -37,7 +37,7 @@ Les informations sont saisies par les étudiants via des listes déroulantes, as
 
 ---
 
-## 💡 Data Storytelling & Insights
+##  Data Storytelling & Insights
 > La compréhension des graphes se fait par la compréhension du terrain.
 
 ### **1. Flux des candidatures**
@@ -60,7 +60,7 @@ Les informations sont saisies par les étudiants via des listes déroulantes, as
 
 ---
 
-## 🚀 Auto-critique et Perspectives
+##  Auto-critique et Perspectives
 Ce projet de L1 a posé les bases de ma démarche de Data Analyst. Voici les pistes d'amélioration identifiées :
 
 1.  **Optimisation :** Pour des jeux de données massifs (>100k lignes), passer sur des méthodes de vectorisation plus poussées.
