@@ -33,7 +33,7 @@ Les données proviennent de la plateforme officielle SNEE.
 Les informations sont saisies par les étudiants via des listes déroulantes, assurant une bonne standardisation dès la source.
 
 ### **Nettoyage**
-* Gestion des cas particuliers identifiés par l'équipe pédagogique.
+* Les cas particuliers identifiés par l'équipe pédagogique sont nettoyés en amont sur le fichier Excel.
 
 ## Apprentissage et Résolution de Problèmes
 Le développement de cet outil en autonomie lors de ma Licence 1 a nécessité une phase de recherche intensive :
